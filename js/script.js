@@ -1,11 +1,7 @@
-
+/*
 var firstName = "Jeff";
 var secondName = "Green";
 var cars = new Array();
-
-
-
-
 /* if(firstName == "John")
 	{
 		alert("Si sono io");
@@ -20,7 +16,7 @@ else
 	} */
 /* cars[0] = "Boh";
 cars[1] = "Test";
-cars[2] = "Bu"; */
+cars[2] = "Bu"; 
 
 cars = ["Honda", "Tool", "Tesla"];
 
@@ -37,3 +33,8 @@ function sayIt(word) {
 
 sayHi();
 sayIt("lol");
+*/
+
+
+
+
