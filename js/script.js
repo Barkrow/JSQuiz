@@ -34,7 +34,7 @@ function sayIt(word) {
 sayHi();
 sayIt("lol");
 */
-
+var i = new Array[];
 
 
 
